@@ -5,17 +5,11 @@ body
 	text-align:center;
 }
 
-div.toppad
-{
-	padding-top: 33px;
-	padding-bottom: 6px;
-}
-
 div.plane
 {
 	background-color:#ffd9b3;
 	width:888px;
-	margin:auto;
+	margin:30px auto 30px auto;
 	overflow: hidden;
 }
 
